@@ -1,3 +1,3 @@
-## Mini Project 1
+## Mini Project
 
-`For demonstration we are generating the random numpy array and showing it with the `
+`Advanced mathematics for Deep Learning II `
